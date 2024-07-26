@@ -1,0 +1,3 @@
+/home/slim/projects/opengl/build/CMakeFiles/OpenGLTriangle.dir
+/home/slim/projects/opengl/build/CMakeFiles/edit_cache.dir
+/home/slim/projects/opengl/build/CMakeFiles/rebuild_cache.dir

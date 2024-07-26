@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/OpenGLTriangle.dir/main.cpp.o -o OpenGLTriangle  /usr/lib64/libGL.so /usr/lib64/libGLU.so /usr/lib64/libGLEW.so /usr/lib64/libglfw.so.3.3 
